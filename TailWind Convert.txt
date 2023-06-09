@@ -1,0 +1,6 @@
+Change a tag to Link
+Change href to to
+Close all tags
+Change fill-rule to fillRule
+Change clip-rule to clipRule
+(check errors in console)
